@@ -14,10 +14,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - Package Manager: npm
 
 **The site is designed with:**
--Mobile-first responsiveness
--Accessibility best practices
--Reusable layout components
--Clear nonprofit UX patterns
+- Mobile-first responsiveness
+- Accessibility best practices
+- Reusable layout components
+- Clear nonprofit UX patterns
 
 🚀**Local Development:**
 
