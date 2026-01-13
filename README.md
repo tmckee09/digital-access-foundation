@@ -42,10 +42,10 @@ http://localhost:3000
 
 🧪**Status:**
 This project is under active development.
-Some content (contact details, donations, payment processing) is intentionally placeholder while organizational infrastructure is finalized.
+- Some content (contact details, donations, payment processing) is intentionally placeholder while organizational infrastructure is finalized.
 
 🤝 **Contributing:**
-At this stage, contributions are limited to internal development and invited collaborators.
+- At this stage, contributions are limited to internal development and invited collaborators.
 
 **If you are interested in:**
 - nonprofit technology access
@@ -56,5 +56,5 @@ At this stage, contributions are limited to internal development and invited col
 
 
 **📄 License**
-This project is currently not licensed for reuse without permission.
-All rights reserved © Digital Access Foundation.
+- This project is currently not licensed for reuse without permission.
+- All rights reserved © Digital Access Foundation.
