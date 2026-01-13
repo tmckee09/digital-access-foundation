@@ -30,7 +30,7 @@ export default function DonorBanner() {
         />
 
         <Link
-          href="/learn-more"
+          href="/about"
           aria-label="Learn More"
           className="absolute"
           style={{
