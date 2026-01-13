@@ -19,26 +19,6 @@ Package Manager: npm
 -Reusable layout components
 -Clear nonprofit UX patterns
 
-📁 **Project Structure**
-
-src/
-├─ app/
-│  ├─ page.tsx              # Homepage
-│  ├─ recycle-tech/         # Recycling program page
-│  ├─ get-devices/          # Device access page
-│  ├─ internet/             # Connectivity options
-│  ├─ eligibility/          # Eligibility information
-│  ├─ about/                # About Digital Access Foundation
-│  ├─ kansas-city/          # Local focus page
-│  └─ contact/              # Contact page (placeholder info)
-│
-├─ components/
-│  ├─ SiteHeader.tsx
-│  ├─ SiteFooter.tsx
-│  ├─ Hero.tsx
-│  ├─ ProgramTiles.tsx
-│  └─ Container.tsx
-
 🚀**Local Development**
 
 Prerequisites:
