@@ -6,7 +6,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-🛠 **Tech Stack**
+🛠 **Tech Stack:**
 Framework: Next.js (App Router)
 Language: TypeScript mostly
 Styling: Tailwind CSS
@@ -19,7 +19,7 @@ Package Manager: npm
 -Reusable layout components
 -Clear nonprofit UX patterns
 
-🚀**Local Development**
+🚀**Local Development:**
 
 Prerequisites:
 - Node.js (18+ recommended)
