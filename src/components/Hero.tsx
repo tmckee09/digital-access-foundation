@@ -24,7 +24,7 @@ export default function Hero() {
 </Link>
 
 <Link
-  href="/get-devices"
+  href="/coming-soon"
   className="rounded-md bg-white/10 px-4 py-2 text-white shadow-md shadow-black/20 ring-1 ring-white/20 backdrop-blur transition hover:bg-white/15 hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-white/70"
 >
   Get a Device

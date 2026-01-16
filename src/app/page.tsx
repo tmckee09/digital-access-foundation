@@ -22,11 +22,11 @@ export default function HomePage() {
   <Container>
     <div className="flex flex-col gap-6 lg:flex-row lg:items-center lg:justify-between">
       <div className="max-w-2xl">
-        <h2 className="text-2xl font-semibold text-white">Are you eligible?</h2>
+        <h2 className="text-2xl font-semibold text-white">Who qualifies?</h2>
 
         <p className="mt-2 text-teal-50">
-          Eligibility is income-based and documentation-based. For now, we’re aligning with
-          the same model used by PCs for People.
+          Eligibility is determined by household income and basic documentation. Our straightforward,
+          needs-first intake process ensures technology goes first to neighbors who need it most.
         </p>
       </div>
 
@@ -39,7 +39,7 @@ export default function HomePage() {
         </Link>
 
         <Link
-          href="/contact"
+          href="/about"
           className="rounded-md border border-white/70 px-4 py-2 text-white transition hover:bg-white/10"
         >
           Ask a Question

@@ -13,7 +13,7 @@ const documentOptions = [
   "Participation in a federal assistance program (SNAP, Medicaid, SSI, etc.)",
   "Most recent tax return or pay stubs showing household income",
   "School enrollment documentation for K-12 or college students",
-  "Proof of residency within the Kansas City metro area",
+  "Proof of residency within Missouri",
   "Photo ID for the adult applicant",
 ];
 
@@ -59,7 +59,7 @@ export default function EligibilityPage() {
                   Ask about eligibility
                 </Link>
                 <Link
-                  href="/get-devices"
+                  href="/coming-soon"
                   className="rounded-md border border-white/40 px-5 py-3 text-sm font-semibold text-white hover:bg-white/10"
                 >
                   Explore device programs
@@ -71,9 +71,11 @@ export default function EligibilityPage() {
                 Quick checklist
               </div>
               <ul className="mt-4 space-y-3">
-                <li>✔ Household income within the guidelines</li>
-                <li>✔ Proof of residency in the Kansas City metro</li>
-                <li>✔ Documentation ready to share</li>
+                <li>✔ Valid Photo ID</li>
+                <li>
+                  ✔ Documentation showing income-based assistance{" "}
+                  <span className="block sm:inline">or household income within 60% of the area median</span>
+                </li>
                 <li>✔ Need for a laptop, desktop, or connectivity support</li>
               </ul>
             </div>
