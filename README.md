@@ -30,6 +30,10 @@ Install dependencies
 npm install
 ```
 
+Environment variables
+- Copy `.env.example` to `.env.local` and fill in values as needed.
+- Only use `NEXT_PUBLIC_` for values that are safe to expose in the browser.
+
 Run the development server
 ```bash
 npm run dev
@@ -38,6 +42,16 @@ npm run dev
 The site will be available at:
 ```bash
 http://localhost:3000
+```
+
+Run on port 3002
+- PowerShell:
+```powershell
+$env:PORT=3002; npm run dev
+```
+- Bash/WSL:
+```bash
+PORT=3002 npm run dev
 ```
 
 🧪**Status:**
