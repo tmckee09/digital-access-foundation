@@ -155,7 +155,7 @@ export default function EligibilityPage() {
                   Start intake
                 </Link>
                 <Link
-                  href="/donate"
+                  href="/recycle-tech"
                   className="rounded-md border border-white/40 px-4 py-2 text-white transition hover:bg-white/10"
                 >
                   Support the program

@@ -51,7 +51,7 @@ export default function SiteHeader() {
               Check Eligibility
             </Link>
             <Link
-              href="/donate"
+              href="/recycle-tech"
               className="rounded-md bg-slate-900 px-3 py-2 text-sm text-white hover:bg-slate-800"
             >
               Donate

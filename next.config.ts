@@ -23,6 +23,15 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  async redirects() {
+    return [
+      {
+        source: "/recycle-here",
+        destination: "/recycle-tech",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

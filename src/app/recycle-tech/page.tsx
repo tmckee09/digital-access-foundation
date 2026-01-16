@@ -74,7 +74,7 @@ export default function RecycleTechPage() {
                 Schedule a pickup
               </Link>
               <Link
-                href="/donate"
+                href="/recycle-tech"
                 className="rounded-md border border-white/40 px-5 py-3 text-center text-sm font-semibold text-white hover:bg-white/10"
               >
                 Learn about donating
