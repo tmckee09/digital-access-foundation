@@ -4,7 +4,6 @@
 
 If you discover a security issue, please report it privately.
 
-- Email: security@digitalaccessfoundation.org
 - Include: a description of the issue, impact, and steps to reproduce
 
 We will acknowledge receipt within 72 hours and provide a remediation timeline after triage.
