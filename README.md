@@ -68,7 +68,10 @@ This project is under active development.
 
 **feel free to open an issue or reach out.**
 
+**License**
+© 2026 Digital Access Foundation. All rights reserved.
 
-**📄 License**
-- This project is currently not licensed for reuse without permission.
-- All rights reserved © Digital Access Foundation.
+This repository and its contents are not licensed for reuse, redistribution, or modification
+without explicit written permission from Digital Access Foundation.
+
+
