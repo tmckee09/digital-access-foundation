@@ -18,7 +18,7 @@ export default function DonorBanner() {
         {/* Clickable overlays aligned to the button art in the image */}
         {/* NOTE: These percentages are based on your screenshot and may need tiny nudges. */}
         <Link
-          href="/donate"
+          href="/recycle-here"
           aria-label="Donate Here"
           className="absolute"
           style={{
@@ -30,7 +30,7 @@ export default function DonorBanner() {
         />
 
         <Link
-          href="/about"
+          href="/recycle-tech"
           aria-label="Learn More"
           className="absolute"
           style={{

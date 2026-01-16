@@ -5,12 +5,12 @@ const tiles = [
   {
     title: "Get a device",
     desc: "Refurbished laptops/desktops for eligible households and nonprofits.",
-    href: "/get-devices",
+    href: "/coming-soon",
   },
   {
     title: "Internet options",
     desc: "Affordable connectivity pathways and partner programs.",
-    href: "/internet",
+    href: "/coming-soon",
   },
   {
     title: "Recycle tech",

@@ -56,7 +56,7 @@ export default function AboutPage() {
                   Contact our team
                 </Link>
                 <Link
-                  href="/donate"
+                  href="/recycle-tech"
                   className="rounded-md border border-white/40 px-5 py-3 text-sm font-semibold text-white hover:bg-white/10"
                 >
                   Support the mission
@@ -163,7 +163,7 @@ export default function AboutPage() {
                   Recycle tech with us
                 </Link>
                 <Link
-                  href="/donate"
+                  href="/recycle-tech"
                   className="rounded-md border border-white/40 px-4 py-2 text-white transition hover:bg-white/10"
                 >
                   Make a donation

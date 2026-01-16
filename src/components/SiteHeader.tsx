@@ -3,12 +3,12 @@ import Image from "next/image";
 import Container from "./Container";
 
 const nav = [
-  { href: "/get-devices", label: "Get Devices" },
-  { href: "/internet", label: "Internet" },
+  { href: "/coming-soon", label: "Get Devices" },
+  { href: "/coming-soon", label: "Internet" },
   { href: "/recycle-tech", label: "Recycle Tech" },
   { href: "/eligibility", label: "Eligibility" },
   { href: "/about", label: "About" },
-  { href: "/kansas-city", label: "Kansas City" },
+  { href: "/coming-soon", label: "Kansas City" },
 ];
 
 export default function SiteHeader() {
@@ -51,7 +51,7 @@ export default function SiteHeader() {
               Check Eligibility
             </Link>
             <Link
-              href="/donate"
+              href="/recycle-tech"
               className="rounded-md bg-slate-900 px-3 py-2 text-sm text-white hover:bg-slate-800"
             >
               Donate

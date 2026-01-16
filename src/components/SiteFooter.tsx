@@ -39,7 +39,7 @@ export default function SiteFooter() {
                 </Link>
               </li>
               <li>
-                <Link className="text-slate-300 hover:text-white transition" href="/kansas-city">
+                <Link className="text-slate-300 hover:text-white transition" href="/coming-soon">
                   Kansas City
                 </Link>
               </li>
