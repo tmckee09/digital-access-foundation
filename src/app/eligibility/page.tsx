@@ -53,7 +53,7 @@ export default function EligibilityPage() {
               </p>
               <div className="mt-6 flex flex-wrap gap-3">
                 <Link
-                  href="/contact"
+                  href="/eligibility"
                   className="rounded-md bg-teal-500 px-5 py-3 text-sm font-semibold text-slate-900 hover:bg-teal-400"
                 >
                   Ask about eligibility
