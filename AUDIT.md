@@ -15,11 +15,9 @@ Date: 2026-01-16
 
 ## Tooling Run (as requested)
 
-- `npm ci` (failed: EIO unlink error on Windows native modules)
-- `npm install` (completed with cleanup warnings)
 - `npm audit` (0 vulnerabilities)
 - `npm run lint` (timed out after 120s)
-- `npm run build` (timed out after 120s; reached "Collecting page data")
+- `npm run build` (timed out after 120s; reached "Generating static pages")
 
 ## Findings (ranked)
 
